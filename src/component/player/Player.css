@@ -1,0 +1,12 @@
+.player-container {
+  display: flex;
+}
+.product-container {
+  width: 77%;
+  margin-left: 20px;
+  margin-right: 5px;
+  /* border-right: 2px solid lightgray; */
+}
+.playerPlace {
+  margin-left: -1px;
+}
