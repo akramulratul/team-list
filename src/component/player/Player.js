@@ -30,11 +30,8 @@ const handleAddProduct = (product) =>{
                 }
             
             </div>
-            {/* <div className="container">
-                <h5>My Players :{selectedPlayers.length}</h5>
-            </div> */}
         </div> 
-        </div>           
+    </div>           
     );
 };
 

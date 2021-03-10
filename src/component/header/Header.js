@@ -1,7 +1,6 @@
 import React from 'react';
 import logo from '../../logo.svg';
 import './Header.css';
-import background from'../../images/background.png';
 const Header = () => {
     return (
         <div className="header container">
